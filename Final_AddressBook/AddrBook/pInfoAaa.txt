@@ -1,0 +1,14 @@
+ФИО: Aaa BBB
+Адрес проживания: г.Ulan-Ude, ул. Lenina, д. 45, кв.3
+
+ФИО: Aaa BBB
+Адрес проживания: г.Ulan-Ude, ул. Lenina, д. 45, кв.3
+
+ФИО: Aaa BBB
+Адрес проживания: г.Ulan-Ude, ул. Lenina, д. 45, кв.3
+Адрес работы: г.Ulan-Ude, ул. Yaroslavskaya, д. 45, кв.0
+
+ФИО: Aaa BBB
+Адрес проживания: г.Ulan-Ude, ул. Lenina, д. 45, кв.3
+Адрес работы: г.Ulan-Ude, ул. Yaroslavskaya, д. 45, кв.0
+
